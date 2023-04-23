@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bHuWWL6IH4ATLCPTZnAFFlZDYipnK7eSRHsfIneYbT9gK1KGvVEtNlWL2tcivVHQ3s4zZjYjJRE0Rlt30NBiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\Samples\\VpnHood.Samples.SimpleClient.Win\\VpnHood.Samples.SimpleClient.Win.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.logging.console\\7.0.0\\microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\packetdotnet\\1.4.7\\packetdotnet.1.4.7.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\sharppcap\\6.2.5\\sharppcap.6.2.5.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\vpnhood.client\\2.8.361\\vpnhood.client.2.8.361.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\vpnhood.client.device\\2.8.361\\vpnhood.client.device.2.8.361.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\vpnhood.client.device.windivert\\2.8.361\\vpnhood.client.device.windivert.2.8.361.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\vpnhood.common\\2.8.361\\vpnhood.common.2.8.361.nupkg.sha512",
+    "C:\\Users\\Utilizador\\.nuget\\packages\\vpnhood.tunneling\\2.8.361\\vpnhood.tunneling.2.8.361.nupkg.sha512"
+  ],
+  "logs": []
+}
