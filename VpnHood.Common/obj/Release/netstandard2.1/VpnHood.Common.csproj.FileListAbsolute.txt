@@ -1,0 +1,10 @@
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\bin\Release\netstandard2.1\VpnHood.Common.deps.json
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\bin\Release\netstandard2.1\VpnHood.Common.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\bin\Release\netstandard2.1\VpnHood.Common.pdb
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Common\obj\Release\netstandard2.1\VpnHood.Common.pdb
