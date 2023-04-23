@@ -1,0 +1,13 @@
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\bin\Debug\netstandard2.1\VpnHood.Client.Device.deps.json
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\bin\Debug\netstandard2.1\VpnHood.Client.Device.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\bin\Debug\netstandard2.1\VpnHood.Client.Device.pdb
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\bin\Debug\netstandard2.1\VpnHood.Common.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\bin\Debug\netstandard2.1\VpnHood.Common.pdb
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Client.Device\obj\Debug\netstandard2.1\VpnHood.Client.Device.pdb
