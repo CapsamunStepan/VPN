@@ -1,0 +1,13 @@
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\bin\Debug\netstandard2.1\VpnHood.Tunneling.deps.json
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\bin\Debug\netstandard2.1\VpnHood.Tunneling.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\bin\Debug\netstandard2.1\VpnHood.Tunneling.pdb
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\bin\Debug\netstandard2.1\VpnHood.Common.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\bin\Debug\netstandard2.1\VpnHood.Common.pdb
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.dll
+C:\Users\Utilizador\Desktop\Новая папка\VpnHood\VpnHood.Tunneling\obj\Debug\netstandard2.1\VpnHood.Tunneling.pdb
