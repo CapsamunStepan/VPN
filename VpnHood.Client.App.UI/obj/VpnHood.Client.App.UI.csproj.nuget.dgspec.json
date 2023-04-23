@@ -1,0 +1,459 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App.UI\\VpnHood.Client.App.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App.UI\\VpnHood.Client.App.UI.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App.UI\\VpnHood.Client.App.UI.csproj",
+        "projectName": "VpnHood.Client.App.UI",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App.UI\\VpnHood.Client.App.UI.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\VpnHood.Client.App.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\VpnHood.Client.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EmbedIO": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "Unosquare.Swan.Lite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\VpnHood.Client.App.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\VpnHood.Client.App.csproj",
+        "projectName": "VpnHood.Client.App",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\VpnHood.Client.App.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\VpnHood.Client.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\VpnHood.Client.csproj"
+              },
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\VpnHood.Client.Device.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\VpnHood.Client.Device.csproj",
+        "projectName": "VpnHood.Client.Device",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\VpnHood.Client.Device.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "PacketDotNet": {
+              "target": "Package",
+              "version": "[1.4.7, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\VpnHood.Client.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\VpnHood.Client.csproj",
+        "projectName": "VpnHood.Client",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\VpnHood.Client.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\VpnHood.Client.Device.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Client.Device\\VpnHood.Client.Device.csproj"
+              },
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj"
+              },
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\VpnHood.Tunneling.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\VpnHood.Tunneling.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj",
+        "projectName": "VpnHood.Common",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\VpnHood.Tunneling.csproj": {
+      "version": "2.8.361",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\VpnHood.Tunneling.csproj",
+        "projectName": "VpnHood.Tunneling",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\VpnHood.Tunneling.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Tunneling\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Desktop\\VPN\\VpnHood\\VpnHood.Common\\VpnHood.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "PacketDotNet": {
+              "target": "Package",
+              "version": "[1.4.7, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
